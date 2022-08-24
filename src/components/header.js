@@ -10,7 +10,9 @@ function Header() {
     
     <li><Link to={"/"}>Home</Link></li>
     <li><Link to={"/contact"}>Contact</Link></li>
-    <li><Link to={"/about"}>AboutScreen</Link></li>
+        <li><Link to={"/about"}>AboutScreen</Link></li>
+        <li><Link to={"/product"}>Products</Link></li>
+        
     </ul>
     </nav>
   )
